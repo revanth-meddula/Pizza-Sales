@@ -48,14 +48,13 @@ Data analysis was performed using a series of SQL queries to generate metrics, t
 You can find the full set of SQL queries used in this project [here](./sql%20queries%20of%20pizza%20sales.pdf).
 
 ## Folder Structure
-pizza-sales-analysis/
-│
-├── PowerBI Dashboard.pptx / .pbix
-├── sql queries of pizza sales.pdf
-├── screenshots/
-│ ├── dashboard_1.png
-│ └── dashboard_2.png
-└── README.md
+the above project of pizza_sales is made by the following:
+1.PowerBI Dashboard.pptx / .pbix
+2.sql queries of pizza sales.pdf
+3.screenshots/
+4.dashboard_1.png
+5.dashboard_2.png
+6.README.md
 
 ## Conclusion
 This project provides a complete view of the business’s pizza sales performance, highlighting best sellers, customer demand patterns, and sales distribution across time and categories. It serves as a valuable decision-support tool for business optimization.
